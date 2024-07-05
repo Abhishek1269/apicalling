@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apicalling/static/css/main.e6c13ad2.css",
+    "main.js": "/apicalling/static/js/main.b2fc6756.js",
+    "static/js/453.45d6f829.chunk.js": "/apicalling/static/js/453.45d6f829.chunk.js",
+    "index.html": "/apicalling/index.html",
+    "main.e6c13ad2.css.map": "/apicalling/static/css/main.e6c13ad2.css.map",
+    "main.b2fc6756.js.map": "/apicalling/static/js/main.b2fc6756.js.map",
+    "453.45d6f829.chunk.js.map": "/apicalling/static/js/453.45d6f829.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b2fc6756.js"
+  ]
+}
